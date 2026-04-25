@@ -23,7 +23,7 @@ const startServer = async () => {
   await seedFirstAdmin();
 
   app.listen(PORT, () => {
-    console.log(`🚀 Server running on http://localhost:${PORT}`);
+    console.log(`🚀 Server running on https://team-a-major-project.onrender.com}`);
     console.log(`📋 Environment: ${process.env.NODE_ENV}`);
   });
 

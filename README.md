@@ -77,4 +77,4 @@ Before you start, make sure you have:
 
 ### 3. Access the Project
 
-Open your browser and navigate to the frontend URL (usually `http://localhost:5173`). Have fun exploring the system!
+Open your browser and navigate to the frontend URL (usually `https://team-a-major-project.onrender.com`). Have fun exploring the system!
